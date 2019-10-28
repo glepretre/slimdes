@@ -29,3 +29,8 @@ then open the page in your favorite browser :wink:
 ## License
 
 [WTFPL](http://www.wtfpl.net/about/)
+
+## Special thanks
+
+The startup of this project has been sponsored by my company @Genymobile
+during #hacktoberfest 2019 :pray:

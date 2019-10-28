@@ -1,0 +1,16 @@
+{
+  "name": "slimdes",
+  "version": "0.0.0",
+  "description": "Opinionated markdown slides generator",
+  "main": "index.html",
+  "repository": "https://github.com/glepretre/slimdes",
+  "author": "Gilles Lepretre <glepretre@genymobile.com>",
+  "license": "WTFPL",
+  "private": false,
+  "dependencies": {
+    "reveal.js": "^3.8.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

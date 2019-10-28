@@ -1,5 +1,7 @@
 # Slimdes
 
+[Live demo](https://glepretre.github.io/slimdes/slides/example/example.html#/)
+
 ## Dependencies
 
 * node

@@ -1,6 +1,6 @@
 # TODO
 
-* Host the `example` live demo
+* ~Host the `example` live demo~
 * cli
   * `slimdes init`
     * prompt presentation name
